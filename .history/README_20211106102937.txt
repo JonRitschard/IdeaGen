@@ -1,3 +1,0 @@
-**********IdeaGen************
-Purpose:
-IdeaGen is a script used to conca
