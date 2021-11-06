@@ -1,0 +1,12 @@
+**********IdeaGen************
+
+Description:
+IdeaGen is a script used to concatenate lists of strings in order to generate ideas using randomization. 
+
+Usage:
+1. Make lists of strings, a word or phrase, each a it's own line without commas to separate, and add it to the 'lists'
+folder.
+2. Add your path to 'lists' directory 
+2. Change the 'results' variable to however many results you want the program to output. 
+3. Run the program.  
+

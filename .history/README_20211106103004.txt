@@ -1,0 +1,3 @@
+**********IdeaGen************
+Purpose:
+IdeaGen is a script used to concat lists of strings in order to 
